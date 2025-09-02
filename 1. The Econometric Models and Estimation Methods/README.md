@@ -256,7 +256,11 @@ We use the fitted value from the above OLS regression as the proxy for standard 
 
 $$ \text{weight} =\frac{1}{\text{standard deviation}^{2}} $$
 
-**Step 5:** Once we get the weight variable, we can plug this weight variable into any statistical software to run a weighted least square regression model.
+**Step 5:** Once we get the weight variable, we can plug this weight variable into any statistical software to run a weighted least square regression model.  
+
+** Source - WorldQuant University**
+
+
  
   
 
